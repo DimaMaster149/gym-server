@@ -1,0 +1,26 @@
+{
+  "name": "gym",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimaMaster149/gym-server.git"
+  },
+  "author": "DimaMaster149",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DimaMaster149/gym-server/issues"
+  },
+  "homepage": "https://github.com/DimaMaster149/gym-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.1"
+  }
+}
